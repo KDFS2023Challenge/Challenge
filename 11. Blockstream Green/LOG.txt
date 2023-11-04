@@ -1,0 +1,43 @@
+[2023-09-18 16:32:25.526526] [app:info] Blockstream Green 1.2.7 
+[2023-09-18 16:32:25.530530] [app:info] Environment: Production 
+[2023-09-18 16:32:25.530530] [app:info] System Information: 
+[2023-09-18 16:32:25.530530] [app:info]   Build ABI: x86_64-little_endian-llp64 
+[2023-09-18 16:32:25.530530] [app:info]   Build CPU Architecture: x86_64 
+[2023-09-18 16:32:25.530530] [app:info]   Current CPU Architecture: x86_64 
+[2023-09-18 16:32:25.530530] [app:info]   Hardware Model: VMware Virtual Platform 
+[2023-09-18 16:32:25.530530] [app:info]   Kernel Type: winnt 
+[2023-09-18 16:32:25.532532] [app:info]   Kernel Version: 10.0.19045 
+[2023-09-18 16:32:25.533533] [app:info]   Product: Windows 10 Version 22H2 
+[2023-09-18 16:32:25.533533] [app:info]   Product Type: windows 
+[2023-09-18 16:32:25.533533] [app:info]   Product Version: 10 
+[2023-09-18 16:32:25.533533] [app:info] Data directory: C:/Users/souldrag/AppData/Local/Blockstream/Green 
+[2023-09-18 16:32:25.533533] [app:info] Log file: C:/Users/souldrag/AppData/Local/Blockstream/Green/logs/1.2.7.txt 
+[2023-09-18 16:32:25.741741] [app:info] "[Countly][changeDeviceIdWithMerge] setDeviceID = 'aa6ebd4e-b301-4ba0-b1f3-ce3caa35479a'" 
+[2023-09-18 16:32:25.741741] [app:info] "[Countly][start]" 
+[2023-09-18 16:32:25.741741] [app:info] "[Countly][start] 'COUNTLY_USE_SQLITE' is not defined" 
+[2023-09-18 16:32:25.741741] [app:info] "[Countly][start] 'COUNTLY_USE_CUSTOM_HTTP' is defined" 
+[2023-09-18 16:32:25.741741] [app:info] "[Countly][start] 'COUNTLY_USE_CUSTOM_SHA256' is defined" 
+[2023-09-18 16:32:25.741741] [app:info] "[Countly][start] '_WIN32' is defined" 
+[2023-09-18 16:32:25.743743] [app:info] "[Countly][beginSession]" 
+[2023-09-18 16:32:25.743743] [app:debug] analytics: create session 
+[2023-09-18 16:32:27.762762] [app:debug] void JadeFirmwareController::setEnabled(bool) 
+[2023-09-18 16:32:27.762762] [app:debug] void JadeFirmwareController::check() 
+[2023-09-18 16:32:27.762762] [app:debug] void JadeFirmwareController::fetch(const QString&) 
+[2023-09-18 16:32:27.762762] [app:debug] void JadeFirmwareController::fetch(const QString&) 
+[2023-09-18 16:32:27.762762] [app:debug] void JadeFirmwareController::fetch(const QString&) 
+[2023-09-18 16:32:27.762762] [app:debug] void JadeFirmwareController::fetch(const QString&) 
+[2023-09-18 16:32:27.993993] [app:warning] qrc:/Blockstream/Green/qml/main.qml:183: TypeError: Cannot call method 'close' of null 
+[2023-09-18 16:32:27.994994] [app:warning] qrc:/Blockstream/Green/qml/main.qml:163: TypeError: Cannot call method 'close' of null
+[2023-09-18 16:32:29.647647] [app:debug] Window: 
+[2023-09-18 16:32:29.647647] [app:debug]   Graphics API:  Direct3D11 
+[2023-09-18 16:32:29.650650] [app:debug] http: create session 
+[2023-09-18 16:32:29.656656] [app:debug] http: waiting session to connect 
+[2023-09-18 16:32:29.656656] [app:debug] http: waiting session to connect 
+[2023-09-18 16:32:29.656656] [app:debug] http: waiting session to connect 
+[2023-09-18 16:32:29.669669] [app:debug] http: waiting session to connect 
+[2023-09-18 16:32:29.867867] [app:debug] http: waiting session to connect 
+[2023-09-18 16:32:30.159159] [app:debug] http: execute activity 
+[2023-09-18 16:32:31.406406] [app:debug] http: execute activity 
+[2023-09-18 16:32:33.255255] [app:info] "[Countly][endSession]" 
+[2023-09-18 16:32:33.260260] [gdk:info] destroying singlesig session 0x150a549b950 
+[2023-09-18 16:32:33.260260] [gdk:info] destroying singlesig session 0x150a9e97fb0 ，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，
