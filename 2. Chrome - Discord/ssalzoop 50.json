@@ -1,0 +1,312 @@
+[
+{
+    "id": "1062678496641568788",
+    "type": 0,
+    "content": "<:ssalzoop:1045570156258148464> <:__:1055071975401336912>안녕하세요 쌀줍입니다 <:__:1055071975401336912> <:ssalzoop:1045570156258148464>\n\n드디어 쌀줍 커뮤니티에 역할을 업그레이드 하였습니다.\n추후 역할이 있으신분들에게 혜택을 조금더 드리도록 노력하겠습니다. \n\n<@&1037710186753826846> - 커뮤니티에 들어오셔서 정보를 받아 볼수 있습니다.\n <@&1062672242263199805> -  5렙 달성시 자동지급 \n <@&1062673050404933742>  - 10렙 달성시 자동지급 \n <@&1054261904870232114> - 10렙 달성시 자동부여 이 역할 있으신분만 `정보공유 채널 포스팅`  가능\n <@&1062673000790507560>  - 15렙 달성시 자동지급 \n <@&1062673022277926932>  - 20렙 달성시 자동지급\n\n<#1026653401808896052>  에서 /rank 명령어로 렙을 확인 하실수 있으며 \n렙업을 위해 <#1060808096508805190>  을 추천 드립니다.",
+    "channel_id": "1040180721618255952",
+    "author":
+    {
+        "id": "554681458946736128",
+        "username": "ssalzoop",
+        "avatar": "a_658d0a4c12520be088725a72e0fb1352",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "쌀줍",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": ["1062673000790507560", "1062673050404933742", "1054261904870232114", "1062673022277926932", "1062672242263199805", "1037710186753826846"],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2023-01-11T10:24:57.211000+00:00",
+    "edited_timestamp": "2023-02-10T05:47:00.440000+00:00",
+    "flags": 0,
+    "components": []
+},
+{
+    "id": "1060211020720766976",
+    "type": 0,
+    "content": "@@ @@@ 쌀줍 두번째 이벤트 종료하겠습니다 @@@ @@\n참여해주신분들 모두 감사합니다. ! \n늦은 시간이라 태그 하지 않겠습니다 . \n리워드는 영업일 기준 5일이내  지급하고 공지 드리도록 하겠습니다.",
+    "channel_id": "1040180721618255952",
+    "author":
+    {
+        "id": "554681458946736128",
+        "username": "ssalzoop",
+        "avatar": "a_658d0a4c12520be088725a72e0fb1352",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "쌀줍",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2023-01-04T15:00:05.108000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+},
+{
+    "id": "1060169171503165470",
+    "type": 0,
+    "content": "죄송하지만 초대 들어오신분들중에 쌀줍러 <#1026651251552829530>   인증버튼 안하시는분들 초대왕 집계에서 빼겠습니다 .\n봇인거 같아요. 이벤트 끝나고도 5일 안에  쌀줍러 인증안하시면 다 추방하겠습니다.. \n봇초대는 열심히 홍보해주신분들 노력이 물거품이 되어서 결정했으니 먼저 공지 안했더라도 이해 바랍니다 .\n이벤트 참여로 어뷰징은 하지 말아주시길 간곡히 부탁드리겠습니다.\n\n깨끗하고 자유롭고 행복한 커뮤니티가 되었으면 좋겠습니다. \n<@&1037710186753826846>",
+    "channel_id": "1040180721618255952",
+    "author":
+    {
+        "id": "554681458946736128",
+        "username": "ssalzoop",
+        "avatar": "a_658d0a4c12520be088725a72e0fb1352",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "쌀줍",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": ["1037710186753826846"],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2023-01-04T12:13:47.477000+00:00",
+    "edited_timestamp": "2023-01-04T12:14:04.826000+00:00",
+    "flags": 0,
+    "components": []
+},
+{
+    "id": "1054649660632989746",
+    "type": 0,
+    "content": "<@&1037710186753826846> \n🔥 2차 이벤트 시작했습니다 🔥 \n<#1040180817168699442>  채널을 확인해주세요\n입장 이벤트는 이미 입장하신분들도 참여 가능합니다.",
+    "channel_id": "1040180721618255952",
+    "author":
+    {
+        "id": "554681458946736128",
+        "username": "ssalzoop",
+        "avatar": "a_658d0a4c12520be088725a72e0fb1352",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "쌀줍",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": ["1037710186753826846"],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-12-20T06:41:13.538000+00:00",
+    "edited_timestamp": "2022-12-20T07:36:44.857000+00:00",
+    "flags": 0,
+    "components": []
+},
+{
+    "id": "1052511654996348968",
+    "type": 0,
+    "content": "<@&1037710186753826846>  나이키 드로우 알람 봇 (베타)오픈 했습니다! \n드로우 제품만 발송 되도록 하였습니다.\n아직 오류가 있을수 있지만 잘 전달 되도록 노력 하겠습니다. \n\n감사합니다. !",
+    "channel_id": "1040180721618255952",
+    "author":
+    {
+        "id": "554681458946736128",
+        "username": "ssalzoop",
+        "avatar": "a_658d0a4c12520be088725a72e0fb1352",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "쌀줍",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [
+    {
+        "id": "1052511654396579870",
+        "filename": "image.png",
+        "size": 2637,
+        "url": "https://cdn.discordapp.com/attachments/1040180721618255952/1052511654396579870/image.png",
+        "proxy_url": "https://media.discordapp.net/attachments/1040180721618255952/1052511654396579870/image.png",
+        "width": 228,
+        "height": 34,
+        "content_type": "image/png"
+    },
+    {
+        "id": "1052511654702755872",
+        "filename": "image.png",
+        "size": 184134,
+        "url": "https://cdn.discordapp.com/attachments/1040180721618255952/1052511654702755872/image.png",
+        "proxy_url": "https://media.discordapp.net/attachments/1040180721618255952/1052511654702755872/image.png",
+        "width": 1346,
+        "height": 874,
+        "content_type": "image/png"
+    }],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": ["1037710186753826846"],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-12-14T09:05:33.272000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+},
+{
+    "id": "1052511645592715265",
+    "type": 0,
+    "content": "https://tenor.com/view/thank-you-sticker-thanks-sticker-line-sticker-rabbit-sticker-bunny-sticker-gif-26476684",
+    "channel_id": "1040180721618255952",
+    "author":
+    {
+        "id": "554681458946736128",
+        "username": "ssalzoop",
+        "avatar": "a_658d0a4c12520be088725a72e0fb1352",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "쌀줍",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [],
+    "embeds": [
+    {
+        "type": "gifv",
+        "url": "https://tenor.com/view/thank-you-sticker-thanks-sticker-line-sticker-rabbit-sticker-bunny-sticker-gif-26476684",
+        "provider":
+        {
+            "name": "Tenor",
+            "url": "https://tenor.co"
+        },
+        "thumbnail":
+        {
+            "url": "https://media.tenor.com/4F0S8rm_t98AAAAD/thank-you-sticker-thanks-sticker.png",
+            "proxy_url": "https://images-ext-2.discordapp.net/external/WnGqUWw9e7MiDhC_q7m7iD80UeZrV-akFAVGumw5tck/https/media.tenor.com/4F0S8rm_t98AAAAD/thank-you-sticker-thanks-sticker.png",
+            "width": 640,
+            "height": 600
+        },
+        "video":
+        {
+            "url": "https://media.tenor.com/4F0S8rm_t98AAAPo/thank-you-sticker-thanks-sticker.mp4",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/2ZR_uOy5KhoZ9wt3FpQ5QrAleDtJhsuNOxu46wREBqU/https/media.tenor.com/4F0S8rm_t98AAAPo/thank-you-sticker-thanks-sticker.mp4",
+            "width": 640,
+            "height": 600
+        }
+    }],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-12-14T09:05:31.030000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+},
+{
+    "id": "1050263807261429760",
+    "type": 0,
+    "content": "<@&1037710186753826846> \n<:KakaoTalk_20221110_171307405:1045570156258148464>  안녕하세요 쌀줍입니다.  <:KakaoTalk_20221110_171307405:1045570156258148464> \n 12/8  입장 이벤트 오늘 마감 합니다 . \n아직 43분밖에 신청을 안해주셨는데요 .  \n혹시 잊으신 쌀줍러 분들\n 신청해주시면 백프로 커피 받아가실수 있습니다 .\n\n잊지말고 신청해주세요!! \n\n🔥 구글폼은 오늘 밤 11:59 까지 받겠습니다 🔥",
+    "channel_id": "1040180721618255952",
+    "author":
+    {
+        "id": "554681458946736128",
+        "username": "ssalzoop",
+        "avatar": "a_658d0a4c12520be088725a72e0fb1352",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "쌀줍",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [
+    {
+        "id": "1050263806930075648",
+        "filename": "image.png",
+        "size": 1812,
+        "url": "https://cdn.discordapp.com/attachments/1040180721618255952/1050263806930075648/image.png",
+        "proxy_url": "https://media.discordapp.net/attachments/1040180721618255952/1050263806930075648/image.png",
+        "width": 153,
+        "height": 54,
+        "content_type": "image/png"
+    }],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": ["1037710186753826846"],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-12-08T04:13:24.609000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+},
+{
+    "id": "1047399728784089160",
+    "type": 0,
+    "content": "커피 100분 지급 이벤트가 곧 오픈합니다. !!  \n이미 서버에 계신분도 참여 가능합니다. !! \n구글폼 작성해서 받을꺼에요 !! \n감사합니다. \n\n당첨자 공개후 영업일 기준 7일 안에 발송!",
+    "channel_id": "1040180721618255952",
+    "author":
+    {
+        "id": "554681458946736128",
+        "username": "ssalzoop",
+        "avatar": "a_658d0a4c12520be088725a72e0fb1352",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "쌀줍",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [
+    {
+        "id": "1047399728515661884",
+        "filename": "8e1bf36e463c650e.png",
+        "size": 668906,
+        "url": "https://cdn.discordapp.com/attachments/1040180721618255952/1047399728515661884/8e1bf36e463c650e.png",
+        "proxy_url": "https://media.discordapp.net/attachments/1040180721618255952/1047399728515661884/8e1bf36e463c650e.png",
+        "width": 1414,
+        "height": 2000,
+        "content_type": "image/png"
+    }],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-30T06:32:35.088000+00:00",
+    "edited_timestamp": "2022-11-30T06:34:05.139000+00:00",
+    "flags": 0,
+    "components": []
+}]
